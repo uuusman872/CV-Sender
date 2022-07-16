@@ -75,3 +75,6 @@ def main():
 
 
 # make sure that u have your cv in the project folder 
+
+# U need to also set up your gmail for smtp follow the instruction on link
+# https://www.youtube.com/watch?v=qpAI5qZR9ms
